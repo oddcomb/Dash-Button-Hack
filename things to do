@@ -1,0 +1,5 @@
+to get working on raspberry pi
+
+node ARM or something? 
+modify so that it starts at launch 
+allow SSH and grab IP/MAC address for future reference 
