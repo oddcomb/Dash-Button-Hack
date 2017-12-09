@@ -15,9 +15,12 @@ I just have to get it working on the Raspberry Pi now
 
 necessary downloads:
 
-python3, pip3, scapy-python3
+sudo apt-get install update
+sudo apt-get install upgrade
 
-do updates first
+sudo apt-get install python3 (should be installed) 
+sudo apt-get install python3-pip (should be installed) 
 
+pip3 install scapy-python3 --user 
 
-  
+sudo apt-get install tcpdump
