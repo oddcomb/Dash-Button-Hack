@@ -31,3 +31,11 @@ apparently it only works if you do
 sudo python detect-button.py
 
 so not python 3 I guess 
+
+
+raspberry pi IP address (from hostname -I)
+10.0.0.93
+2601:586:8400:78f::cb29
+2601:586:8400:78f:d621:3d3f:35d3:e570
+
+
