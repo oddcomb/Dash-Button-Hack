@@ -22,5 +22,12 @@ sudo apt-get install python3 (should be installed)
 sudo apt-get install python3-pip (should be installed) 
 
 pip3 install scapy-python3 --user 
+or
+sudo apt-get install python-scapy
 
 sudo apt-get install tcpdump
+
+apparently it only works if you do 
+sudo python detect-button.py
+
+so not python 3 I guess 
